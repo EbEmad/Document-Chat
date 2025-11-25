@@ -48,4 +48,4 @@ class DocumentAssistant:
         return model, tokenizer
     
     def embedd_text(self,text):
-        inputs=self.embedding_tokenizer(text,return)
+        inputs=self.embedding_tokenizer(text,"")
