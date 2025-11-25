@@ -1,0 +1,8 @@
+fastapi
+torch
+transformers
+chromadb
+pypdf2
+python-docx
+langchain
+pyngrok
