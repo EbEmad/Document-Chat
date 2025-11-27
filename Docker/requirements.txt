@@ -6,3 +6,5 @@ pypdf2
 python-docx
 langchain
 pyngrok
+pydantic
+aiofiles
