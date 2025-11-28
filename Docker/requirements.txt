@@ -8,3 +8,5 @@ langchain
 pyngrok
 pydantic
 aiofiles
+langchain
+PyMuPDF
