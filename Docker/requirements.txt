@@ -10,3 +10,5 @@ pydantic
 aiofiles
 langchain
 PyMuPDF
+motor
+pymongo
