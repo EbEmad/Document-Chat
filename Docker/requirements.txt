@@ -12,3 +12,6 @@ langchain
 PyMuPDF
 motor
 pymongo
+openai
+cohere
+google-genai
