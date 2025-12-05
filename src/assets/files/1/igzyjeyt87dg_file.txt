@@ -1,0 +1,5 @@
+My name is Ebrahim Emad, and I am a passionate Data Engineer and aspiring Data Scientist with a strong foundation in Python, SQL, Data Structures & Algorithms, Linux, Docker, and OOP. I have hands-on experience working with MySQL, PostgreSQL, MS SQL Server, and building ETL pipelines, including projects involving Strava and Kaggle datasets.
+
+I have solid experience in competitive programming, being an ECPC Finalist, and I currently contribute as a data scientist and problem-solving coach at IEEE in my faculty. I have completed multiple projects such as a Library Management System, Mental Health Analytics dashboard (using Plotly & Dash), Student Management System, and robotics projects like a Line-Follower Robot.
+
+I enjoy building end-to-end data systems, learning GenAI, RAG, and agentic workflows, and applying engineering principles to real-world problems. My goal is to continue developing scalable data pipelines and intelligent AI systems that deliver real value
