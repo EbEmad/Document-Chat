@@ -4,7 +4,6 @@ class Settings(BaseSettings):
 
     APP_NAME: str
     APP_VERSION: str
-    OPENAI_API_KEY: str
 
     FILE_ALLOWED_TYPES: list
     FILE_MAX_SIZE: int
@@ -13,6 +12,12 @@ class Settings(BaseSettings):
     MONGODB_URL: str
     MONGODB_DATABASE: str
 
+    POSTGRES_USERNAME: str
+    POSTGRES_PASSWORD: str
+    POSTGRES_HOST: str
+    POSTGRES_PORT: str
+    POSTGRES_MAIN_DATABASE: str
+    
     GENERATION_BACKEND: str
     EMBEDDING_BACKEND: str
 
